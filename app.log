@@ -1,0 +1,55 @@
+2025-04-16 17:30:47,613 - app.main - INFO - 前端文件挂载成功
+2025-04-16 17:30:47,616 - app.main - INFO - 应用程序启动
+2025-04-16 17:32:08,038 - app.main - INFO - 应用程序关闭
+2025-04-16 17:32:17,945 - app.main - INFO - 前端文件挂载成功
+2025-04-16 17:32:17,946 - app.main - INFO - 应用程序启动
+2025-04-16 17:32:24,754 - app.main - INFO - 应用程序关闭
+2025-04-16 17:32:30,564 - app.main - INFO - 前端文件挂载成功
+2025-04-16 17:32:30,565 - app.main - INFO - 应用程序启动
+2025-04-16 17:33:54,260 - app.main - INFO - 应用程序关闭
+2025-04-16 17:33:59,639 - app.main - INFO - 前端文件挂载成功
+2025-04-16 17:33:59,640 - app.main - INFO - 应用程序启动
+2025-04-16 17:35:31,409 - app.main - INFO - 应用程序关闭
+2025-04-16 17:36:31,936 - app.main - INFO - 前端文件挂载成功
+2025-04-16 17:36:31,962 - app.main - INFO - 应用程序启动
+2025-04-16 17:36:54,549 - app.main - INFO - 应用程序关闭
+2025-04-16 17:36:58,692 - app.main - INFO - 前端文件挂载成功
+2025-04-16 17:36:58,693 - app.main - INFO - 应用程序启动
+2025-04-16 17:37:07,674 - app.main - INFO - 应用程序关闭
+2025-04-16 17:37:13,176 - app.main - INFO - 前端文件挂载成功
+2025-04-16 17:37:13,177 - app.main - INFO - 应用程序启动
+2025-04-16 17:39:38,938 - app.main - INFO - 应用程序关闭
+2025-04-16 17:39:40,346 - app.main - INFO - 前端文件挂载成功
+2025-04-16 17:39:40,347 - app.main - INFO - 应用程序启动
+2025-04-16 17:40:18,352 - app.main - INFO - 应用程序关闭
+2025-04-16 17:40:19,715 - app.main - INFO - 前端文件挂载成功
+2025-04-16 17:40:19,716 - app.main - INFO - 应用程序启动
+2025-04-16 17:41:47,323 - app.routers.schedule - ERROR - 生成失败: 'Input to ChatPromptTemplate is missing variables {\'\\n    "start"\'}.  Expected: [\'\\n    "start"\', \'current_time\', \'tasks\'] Received: [\'tasks\', \'current_time\']\nNote: if you intended {\n    "start"} to be part of the string and not a variable, please escape it with double curly braces like: \'{{\n    "start"}}\'.\nFor troubleshooting, visit: https://python.langchain.com/docs/troubleshooting/errors/INVALID_PROMPT_INPUT '
+2025-04-16 17:43:10,430 - app.main - INFO - 应用程序关闭
+2025-04-16 17:43:11,839 - app.main - INFO - 前端文件挂载成功
+2025-04-16 17:43:11,840 - app.main - INFO - 应用程序启动
+2025-04-16 17:44:31,722 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-16 17:44:39,936 - app.main - INFO - 应用程序关闭
+2025-04-16 17:44:41,374 - app.main - INFO - 前端文件挂载成功
+2025-04-16 17:44:41,375 - app.main - INFO - 应用程序启动
+2025-04-16 17:46:20,999 - app.main - INFO - 前端文件挂载成功
+2025-04-16 17:46:21,000 - app.main - INFO - 应用程序启动
+2025-04-16 17:48:27,034 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-16 17:49:49,565 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-16 17:55:22,645 - app.main - INFO - 应用程序关闭
+2025-04-16 17:55:24,068 - app.main - INFO - 前端文件挂载成功
+2025-04-16 17:55:24,069 - app.main - INFO - 应用程序启动
+2025-04-16 17:55:44,812 - app.main - INFO - 应用程序关闭
+2025-04-16 17:55:46,194 - app.main - INFO - 前端文件挂载成功
+2025-04-16 17:55:46,195 - app.main - INFO - 应用程序启动
+2025-04-16 18:02:16,914 - app.main - INFO - 前端文件挂载成功
+2025-04-16 18:02:16,915 - app.main - INFO - 应用程序启动
+2025-04-16 18:04:50,510 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-16 18:06:01,165 - app.main - INFO - 应用程序关闭
+2025-04-16 18:06:01,180 - app.main - INFO - 应用程序关闭
+2025-04-16 18:06:02,632 - app.main - INFO - 前端文件挂载成功
+2025-04-16 18:06:02,632 - app.main - INFO - 前端文件挂载成功
+2025-04-16 18:06:02,633 - app.main - INFO - 应用程序启动
+2025-04-16 18:06:02,633 - app.main - INFO - 应用程序启动
+2025-04-16 18:07:07,091 - httpx - INFO - HTTP Request: POST https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-16 18:14:20,242 - app.main - INFO - 应用程序关闭

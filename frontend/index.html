@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>智能日程规划器</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🎯 智能日程生成器</h1>
+        
+        <div class="time-section">
+            <h3>🕒 可用时间设置</h3>
+            <div class="time-inputs">
+                <div class="time-input-group">
+                    <label>开始时间</label>
+                    <input type="time" id="availableTimeStart" value="09:00">
+                </div>
+                <div class="time-input-group">
+                    <label>结束时间</label>
+                    <input type="time" id="availableTimeEnd" value="22:00">
+                </div>
+            </div>
+        </div>
+
+        <div class="task-section">
+            <h3>📝 添加任务</h3>
+            <div class="input-section">
+                <input type="text" id="taskName" placeholder="输入任务名称">
+                <select id="taskDifficulty">
+                    <option value="1">简单</option>
+                    <option value="3" selected>中等</option>
+                    <option value="5">困难</option>
+                </select>
+                <input type="number" id="taskDuration" value="60" min="15" step="15" placeholder="时长(分钟)">
+                <button id="addTaskBtn">添加任务 ➕</button>
+            </div>
+        </div>
+
+        <div id="taskList"></div>
+
+        <button id="generateBtn" class="generate-btn">生成今日计划 🚀</button>
+
+        <div id="scheduleResult"></div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
